@@ -1,0 +1,22 @@
+{
+	"IUIU Mbale Campus": [
+		"AdminFacilities_Mbale_Campus"
+	],
+
+	"Administrations Facilities": [
+		"AdminFacilities_All_Admin_Buildings",
+		"AdminFacilities_Hostels_Others"
+	],
+
+	"Education Facilities": [
+		"AdminFacilities_Education_Buildings"
+	],
+	"Student Facilities": [
+		"StudentFacilities_Fos_Buildings",
+		"StudentFacilities_Foa_Buildings"
+	],
+
+	"Extras":[
+		"AlQuds_Mosque"
+	]
+}
